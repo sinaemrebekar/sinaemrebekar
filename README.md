@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sina Emre.</h1>
 <h3 align="center">A Full-Stack Developer in Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sinaemre&label=Profile%20views&color=29b40e&style=plastic" alt="sinaemre" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinaemre" alt="sinaemre" /></a> </p>
 
 - 🔭 I’m currently working on **Trendyol Project**
