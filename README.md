@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sina Emre.</h1>
 <h3 align="center">A Full-Stack Developer in Türkiye</h3>
 
-- 🔭 I’m currently working on **Trendyol Project**
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **MicroServices, Docker, Redis, React JS**
 
 - 👯 I’m looking to collaborate on **GO-LO Project**
 
-- 🤝 I’m looking for help with **BilgeAdam-StudentPortal**
+- 🤝 I’m looking for help with *
 
 - 📫 How to reach me **snabkr7010@gmail.com**
 
